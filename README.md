@@ -1,4 +1,6 @@
 # React + TypeScript + Vite
+project deployed link
+https://task-writer-oj6dgo5v3-kparsodkstevensedus-projects.vercel.app 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
